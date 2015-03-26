@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1426951259 source:c:\users\sorin\desktop\afn\main.cpp
+	<iostream>
+	<fstream>
+	<set>
+	<string.h>
+
